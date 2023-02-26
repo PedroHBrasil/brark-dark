@@ -2,7 +2,9 @@
   "name": "brark-dark",
   "displayName": "BRark Dark",
   "description": "Dark, colorful and elegant VS Code theme.",
-  "version": "0.0.1",
+  "publisher": "PedroHBrasil",
+  "icon": "img/icon.png",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -17,5 +19,9 @@
         "path": "./themes/BRark Dark-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PedroHBrasil/brark-dark"
   }
 }

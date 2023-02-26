@@ -6,4 +6,4 @@ A dark, colorful and elegant VS Code theme.
 
 Python:
 
-![python_sample](img/python.png)
+![python_sample](https://github.com/PedroHBrasil/brark-dark/blob/main/img/python.png?raw=true)
