@@ -4,7 +4,7 @@
   "description": "Dark, colorful and elegant VS Code theme.",
   "publisher": "PedroHBrasil",
   "icon": "img/icon.png",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "engines": {
     "vscode": "^1.75.0"
   },

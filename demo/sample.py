@@ -93,7 +93,8 @@ def read_file_contents(file_path: str) -> Optional[str]:
         file_path: The path to the file to read.
 
     Returns:
-        The contents of the file as a string, or None if the file cannot be read.
+        The contents of the file as a string, or None if the file cannot be
+        read.
     """
     try:
         with open(file_path, "r") as f:
