@@ -200,7 +200,7 @@ extension GenreExtension on Genre {
 }
 
 Future<void> main() async {
-  final person = const Person(name: 'John', age: 30);
+  final person = Person(name: 'John', age: 30);
   person.greet();
 
   final guitarPlayer = GuitarPlayer();

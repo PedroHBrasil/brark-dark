@@ -1,0 +1,20 @@
+{
+    "string": "This is a string",
+    "number": 42,
+    "float": 3.14,
+    "boolean": true,
+    "null_value": null,
+    "array": [
+        "item 1",
+        "item 2",
+        "item 3"
+    ],
+    "object": {
+        "property_1": "value 1",
+        "property_2": 2,
+        "property_3": {
+            "sub_property_1": "sub-value 1",
+            "sub_property_2": "sub-value 2"
+        }
+    }
+}
