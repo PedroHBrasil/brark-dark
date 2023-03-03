@@ -14,7 +14,10 @@
 		},
 		"module": {
 			"foreground": "#ffaa00"
-		}
+		},
+		"property": {
+			"foreground": "#bb8855"
+		},
 	},
 	"tokenColors": [
 		{
@@ -62,7 +65,14 @@
 			}
 		},
 		{
-			"scope": "keyword",
+			"scope": "keyword.declaration",
+			"settings": {
+				"foreground": "#77aa00",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "keyword.control",
 			"settings": {
 				"foreground": "#77aa00",
 				"fontStyle": "bold"
@@ -244,24 +254,31 @@
 			}
 		},
 		{
+			"scope": "variable.language",
+			"settings": {
+				"foreground": "#aa88bb",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "italic"
 			}
 		},
 		{
-			"scope": "variable.parameter.dart",
+			"scope": "variable.other.constant",
 			"settings": {
-				"fontStyle": ""
+				"foreground": "#5599cc"
 			}
 		},
-		{
-			"scope": "variable.language.self",
-			"settings": {
-				"foreground": "#aa88bb",
-				"fontStyle": "italic"
-			}
-		},
+		// {
+		// 	"scope": "variable.language.self",
+		// 	"settings": {
+		// 		"foreground": "#aa88bb",
+		// 		"fontStyle": "italic"
+		// 	}
+		// },
 		{
 			"scope": "meta.function.decorator",
 			"settings": {
