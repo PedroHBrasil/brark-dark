@@ -29,6 +29,10 @@
 		"lifetime": {
 			"foreground": "#8888dd"
 		},
+		"boolean": {
+			"foreground": "#77AACC",
+			"fontStyle": "",
+		}
 	},
 	"tokenColors": [
 		{
