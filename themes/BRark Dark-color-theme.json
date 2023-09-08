@@ -32,6 +32,14 @@
 		"boolean": {
 			"foreground": "#77AACC",
 			"fontStyle": "",
+		},
+		"interface": {
+			"foreground": "#bb9900",
+			"fontStyle": "",
+		},
+		"class": {
+			"foreground": "#cc7700",
+			"fontStyle": "",
 		}
 	},
 	"tokenColors": [
@@ -124,6 +132,18 @@
 			"scope": "entity.name.type.class",
 			"settings": {
 				"foreground": "#cc7700"
+			}
+		},
+		{
+			"scope": "entity.name.type.interface",
+			"settings": {
+				"foreground": "#bb9900"
+			}
+		},
+		{
+			"scope": "entity.name.type.trait",
+			"settings": {
+				"foreground": "#bb9900"
 			}
 		},
 		{
@@ -354,7 +374,8 @@
 		{
 			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#cc7700"
+				"foreground": "#cc7700",
+				"fontStyle": "",
 			}
 		},
 		{
@@ -372,7 +393,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#3388cc"
+				"foreground": "#6699cc"
 			}
 		},
 		{
