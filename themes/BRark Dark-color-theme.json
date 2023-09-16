@@ -183,12 +183,12 @@
 				"foreground": "#3388cc"
 			}
 		},
-		// {
-		// 	"scope": "entity.name.function.macro",
-		// 	"settings": {
-		// 		"foreground": "#3388cc"
-		// 	}
-		// },
+		{
+			"scope": "punctuation.brackets.angle",
+			"settings": {
+				"foreground": "#aaaaaa"
+			}
+		},
 		{
 			"scope": "punctuation.definition.parameters",
 			"settings": {
