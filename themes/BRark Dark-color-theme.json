@@ -184,6 +184,12 @@
 			}
 		},
 		{
+			"scope": "support.function.magic.python",
+			"settings": {
+				"foreground": "#77aa00"
+			}
+		},
+		{
 			"scope": "punctuation.brackets.angle",
 			"settings": {
 				"foreground": "#aaaaaa"
