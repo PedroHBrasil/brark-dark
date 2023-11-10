@@ -650,6 +650,7 @@
 		"statusBar.noFolderBorder": "#ff000000",
 		"statusBarItem.remoteBackground": "#77aa00",
 		"statusBarItem.remoteForeground": "#333333",
+		"statusBarItem.hoverForeground": "#ffffff",
 		"titleBar.activeBackground": "#1f1f1f",
 		"titleBar.activeForeground": "#cccccc",
 		"titleBar.inactiveBackground": "#333333",
