@@ -341,6 +341,13 @@
 			}
 		},
 		{
+			"scope": "storage.type.function",
+			"settings": {
+				"foreground": "#77aa00",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"scope": "variable.parameter.function.language.special.self",
 			"settings": {
 				"foreground": "#aa88bb",
